@@ -106,7 +106,7 @@ Join me in this journey where creativity meets goals, and ethics guide the way. 
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-	<a href="https://yashitanamdeo.github.io/" target="_blank"><img src="https://img.icons8.com/?size=70&id=115635&format=png" alt="Portfolio"/></a>
+	<a href="https://portfolio-gen.onrender.com/fX3QMbthNtSzyyJ36j1erTGZOEl1" target="_blank"><img src="https://img.icons8.com/?size=70&id=115635&format=png" alt="Portfolio"/></a>
 	<a href="https://github.com/rahulsaw2003" target="_blank"><img src="https://img.icons8.com/?size=70&id=118553&format=png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/rahulsaw2003/" target="_blank"><img src="https://img.icons8.com/?size=70&id=108812&format=png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/rahull_ks23/" target="_blank"><img src="https://img.icons8.com/?size=70&id=TEYr8ETaIfBJ&format=png" alt="Instagram"/></a>
