@@ -7,7 +7,7 @@ Hi, I'm Rahul Kumar Saw!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=28&duration=4000&pause=500&color=2FCAF7&random=false&width=600&lines=Undergraduate+Student+at+IIT+Ropar;Full+Stack+Web+Developer;AI+%7C+ML+%7C+DS+Enthusiast;Always+Learning+%26+Exploring..." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=28&duration=4000&pause=500&color=2FCAF7&random=false&width=600&lines=Software+Development+Engineer;Backend+Developer;AI+%7C+ML+%7C+DS+Enthusiast;Always+Learning+%26+Exploring..." alt="Typing SVG" /></a>
 </p>
 <hr/>
 <samp>
